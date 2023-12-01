@@ -1,0 +1,1 @@
+Este es el README del  1T de la asignatura BD

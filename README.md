@@ -77,7 +77,7 @@ Git proporciona una infraestructura sólida para la colaboración en proyectos, 
 Del ejercicio 3º   este son los tres tipos de restricción de guin 
 * se usa para encontrar coincidencias
 / se usa para ignorar nombres de ruta relacionados con el archivo .gitignore
-# se usa para añadir comentarios al archivo .gitignore
+
 
 
 Este es el ejercicio 4º
@@ -96,7 +96,7 @@ Entre las características más relevantes se encuentran:
 
 - Compatibilidad con una amplia gama de herramientas de desarrollo.
 
-+ Existen muchas órdenes de git que nos sirven para realizar diferentes funcionalidades:
+Existen muchas órdenes de git que nos sirven para realizar diferentes funcionalidades:
 
 1. git init: Esto crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git. Todavía no hay nada en tu proyecto que esté bajo seguimiento.
 
