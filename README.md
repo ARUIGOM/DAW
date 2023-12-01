@@ -15,12 +15,12 @@ Los bloques de texto preformateado se logran utilizando cuatro espacios al inici
 ### 3. Texto tachado
 ~~Este texto está tachado.~~
 
-*Texto en negrita*
-_Otro texto en negrita_
+**Texto en negrita**
+
 
 
 *Texto en cursiva*
-_Texto en cursiva también_
+
 
 
 ### 6. Imágenes y gif
