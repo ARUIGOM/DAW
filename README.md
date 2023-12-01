@@ -1,9 +1,5 @@
 # DAW
-# Documento de Ejemplo
 
-## Tipos de Texto
-
-# Documento de Ejemplo
 
 ## Tipos de Texto
 
@@ -19,12 +15,13 @@ Los bloques de texto preformateado se logran utilizando cuatro espacios al inici
 ### 3. Texto tachado
 ~~Este texto está tachado.~~
 
-### 4. Texto subrayado
-<span style="text-decoration: underline;">Este texto está subrayado.</span>
+*Texto en negrita*
+_Otro texto en negrita_
 
-### 5. Texto en colores
-<span style="color:blue;">Este texto está en azul.</span>
-<span style="color:red;">Este texto está en rojo.</span>
+
+*Texto en cursiva*
+_Texto en cursiva también_
+
 
 ### 6. Imágenes y gif
 ![Descripción de la imagen](descarga.jpeg)
