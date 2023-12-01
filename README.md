@@ -26,8 +26,11 @@ Los bloques de texto preformateado se logran utilizando cuatro espacios al inici
 <span style="color:blue;">Este texto está en azul.</span>
 <span style="color:red;">Este texto está en rojo.</span>
 
-### 5. Imágenes
+### 5. Imágenes y gif
 ![Descripción de la imagen](descarga.jpeg)
+
+![Descripción del gif](18313506.gif)
+
 
 ### 6. Íconos o Emoji
 Puedes utilizar íconos o emoji como :smile: :rocket: :computer: para añadir visualizaciones.
