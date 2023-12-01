@@ -3,35 +3,45 @@
 
 ## Tipos de Texto
 
-### 1. Títulos y Encabezados
-Los títulos se crean con almohadillas (#) seguidas del texto.
+# Documento de Ejemplo
 
-### 2. Párrafos
-El texto principal se escribe en párrafos separados por líneas en blanco.
+## Tipos de Texto
 
-### 3. Listas
-- Lista no ordenada
-- Otra entrada de la lista
+### 1. Bloques de texto preformateado
+Los bloques de texto preformateado se logran utilizando cuatro espacios al inicio de la línea.
 
-1. Lista ordenada
-2. Otra entrada de la lista ordenada
+    Esto es un bloque de texto preformateado.
+    Se conserva el formato exacto, incluyendo espacios y saltos de línea.
 
-### 4. Enlaces
-[Texto del enlace](https://ejemplo.com)
+### 2. Notas o Advertencias
+> **Nota:** Este es un mensaje de nota o advertencia que resalta información importante.
+
+### 3. Texto tachado
+~~Este texto está tachado.~~
+
+### 4. Texto subrayado
+<span style="text-decoration: underline;">Este texto está subrayado.</span>
+
+### 5. Texto en colores
+<span style="color:blue;">Este texto está en azul.</span>
+<span style="color:red;">Este texto está en rojo.</span>
 
 ### 5. Imágenes
 ![Descripción de la imagen](descarga.jpeg)
 
-### 6. Énfasis y Negritas
-*Texto en cursiva* o **texto en negrita**
+### 6. Íconos o Emoji
+Puedes utilizar íconos o emoji como :smile: :rocket: :computer: para añadir visualizaciones.
 
-### 7. Citas
-> Esto es un texto citado.
+### 7. Superíndices y subíndices
+El superíndice se logra con ^superíndice y el subíndice con ~subíndice~.
 
-### 8. Código
-Para resaltar código en línea, se usa el acento grave (`) alrededor del texto. Para bloques de código, se utilizan tres acentos graves al inicio y al final.
+### 8. Letra capitular
+Utiliza un signo de mayor que (>) seguido del carácter para hacer una letra capitular: >E.
 
-```javascript
-function saludar() {
-    console.log("Hola, mundo!");
-}
+### 9. Acordes musicales
+Puedes mostrar acordes musicales: C, Dm, G, Am.
+
+### 10. Texto justificado
+<span style="text-align: justify;">Este es un texto justificado. Se ajusta a los márgenes.</span>
+
+
